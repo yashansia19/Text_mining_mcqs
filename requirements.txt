@@ -1,0 +1,4 @@
+nltk
+rake-nltk
+transformers
+torch
